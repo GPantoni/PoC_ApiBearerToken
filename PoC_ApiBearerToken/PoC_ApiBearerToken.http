@@ -1,0 +1,6 @@
+@PoC_ApiBearerToken_HostAddress = http://localhost:5276
+
+GET {{PoC_ApiBearerToken_HostAddress}}/weatherforecast/
+Accept: application/json
+
+###
